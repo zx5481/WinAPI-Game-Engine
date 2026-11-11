@@ -1,0 +1,18 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: 중간 디렉터리(x64\Debug\)에 다른 프로젝트(WinAPI_GameEngine.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  Animation.cpp
+C:\Users\zxcas\OneDrive\바탕 화면\TaeSang\게임 개발\게임 클라이언트 개발자 준비\WinAPI 자체엔진 포트폴리오\WinAPI_GameEngine\WinAPI_GameEngine\struct.h(16,14): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  EventMgr.cpp
+C:\Users\zxcas\OneDrive\바탕 화면\TaeSang\게임 개발\게임 클라이언트 개발자 준비\WinAPI 자체엔진 포트폴리오\WinAPI_GameEngine\WinAPI_GameEngine\struct.h(16,14): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  PanelUI.cpp
+C:\Users\zxcas\OneDrive\바탕 화면\TaeSang\게임 개발\게임 클라이언트 개발자 준비\WinAPI 자체엔진 포트폴리오\WinAPI_GameEngine\WinAPI_GameEngine\struct.h(16,14): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Core.cpp
+C:\Users\zxcas\OneDrive\바탕 화면\TaeSang\게임 개발\게임 클라이언트 개발자 준비\WinAPI 자체엔진 포트폴리오\WinAPI_GameEngine\WinAPI_GameEngine\struct.h(16,14): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Tile.cpp
+C:\Users\zxcas\OneDrive\바탕 화면\TaeSang\게임 개발\게임 클라이언트 개발자 준비\WinAPI 자체엔진 포트폴리오\WinAPI_GameEngine\WinAPI_GameEngine\struct.h(16,14): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zxcas\OneDrive\바탕 화면\TaeSang\게임 개발\게임 클라이언트 개발자 준비\WinAPI 자체엔진 포트폴리오\WinAPI_GameEngine\WinAPI_GameEngine\Tile.cpp(51,10): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zxcas\OneDrive\바탕 화면\TaeSang\게임 개발\게임 클라이언트 개발자 준비\WinAPI 자체엔진 포트폴리오\WinAPI_GameEngine\WinAPI_GameEngine\Tile.cpp(50,10): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zxcas\OneDrive\바탕 화면\TaeSang\게임 개발\게임 클라이언트 개발자 준비\WinAPI 자체엔진 포트폴리오\WinAPI_GameEngine\WinAPI_GameEngine\Tile.cpp(49,19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zxcas\OneDrive\바탕 화면\TaeSang\게임 개발\게임 클라이언트 개발자 준비\WinAPI 자체엔진 포트폴리오\WinAPI_GameEngine\WinAPI_GameEngine\Tile.cpp(48,19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  WinAPI_GameEngine.cpp
+  코드를 생성하고 있습니다...
+  WinAPI_GameEngine.vcxproj -> C:\Users\zxcas\OneDrive\바탕 화면\TaeSang\게임 개발\게임 클라이언트 개발자 준비\WinAPI 자체엔진 포트폴리오\WinAPI_GameEngine\x64\Debug\Client.exe
