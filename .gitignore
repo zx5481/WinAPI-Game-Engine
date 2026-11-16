@@ -1,0 +1,53 @@
+# Visual Studio 사용자 설정 및 캐시 폴더
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# 빌드 출력 폴더 (x64, Debug, Release 등)
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# 단, 리소스(이미지, 사운드 등)가 들어있는 Output/bin/content 폴더는 Git에 유지
+!Output/
+!Output/bin/
+!Output/bin/content/
+!Output/bin/content/**
+
+# C++ 컴파일 및 디버깅 중간 생성 파일
+*.obj
+*.tlog
+*.log
+*.idb
+*.pdb
+*.ilk
+*.exe
+*.dll
+*.lib
+*.exp
+*.pch
+*.ipch
+*.lastbuildstate
+*.unsuccessfulbuild
+*.sdf
+*.opensdf
+*.db
+*.opendb
+
+# Windows OS 임시 파일
+Thumbs.db
+ehthumbs.db
+Desktop.ini
